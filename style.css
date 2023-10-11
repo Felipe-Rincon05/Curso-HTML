@@ -1,0 +1,20 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: linear-gradient(white, darkGrey);
+}
+header, nav, section, footer {
+    background-color: lightblue;
+    border-style: 1;
+    margin: 10px;
+    width: 90%;
+    padding: 20px;
+    display: block;
+    border-radius: 20px;
+}
+
+a {
+    text-decoration: none;
+}
